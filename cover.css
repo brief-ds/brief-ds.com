@@ -108,3 +108,9 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+
+.cerise {
+  color: rgba(0, 255, 0, .5);
+  font-weight: 300;
+}
